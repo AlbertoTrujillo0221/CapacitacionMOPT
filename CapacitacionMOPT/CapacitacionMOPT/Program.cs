@@ -1,5 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, Fabian!");
+Console.WriteLine("MOPT, Fabian!");
+Console.WriteLine("Prueba Fabian!");
+Console.WriteLine("Fabian, Fabian!");
+Console.WriteLine("Hola, Fabian!");
+Console.WriteLine("Ronald Hernàndez");
+Console.WriteLine("Prueba Ronald");
+Console.WriteLine("Pràctica Ronald");
+Console.WriteLine("MOPT Ronald");
+Console.WriteLine("Test Ronald");
+
 Console.WriteLine("Hello, World!");
+Console.WriteLine("GTF, Uno!");
+Console.WriteLine("GTF, Dos!");
+Console.WriteLine("GTF, Tres!");
+Console.WriteLine("GTF, Cuatro!");
+Console.WriteLine("GTF, Cinco!");
 Console.WriteLine("Marisel Castro");
 Console.WriteLine("Les saluda Marisel");
 Console.WriteLine("Marisel MOPT");
