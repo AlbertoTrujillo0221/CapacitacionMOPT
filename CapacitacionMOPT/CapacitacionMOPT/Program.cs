@@ -1,4 +1,10 @@
-﻿Console.WriteLine("Ronald Hernàndez");
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, Fabian!");
+Console.WriteLine("MOPT, Fabian!");
+Console.WriteLine("Prueba Fabian!");
+Console.WriteLine("Fabian, Fabian!");
+Console.WriteLine("Hola, Fabian!");
+Console.WriteLine("Ronald Hernàndez");
 Console.WriteLine("Prueba Ronald");
 Console.WriteLine("Pràctica Ronald");
 Console.WriteLine("MOPT Ronald");
