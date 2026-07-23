@@ -25,3 +25,11 @@ Console.WriteLine("Jay Brenes [2]");
 Console.WriteLine("Jay Brenes [3]");
 Console.WriteLine("Jay Brenes [4]");
 Console.WriteLine("Jay Brenes [5]");
+Console.WriteLine("Marianela Mèndez Carvajal !");
+Console.WriteLine("Naranjo - Marianela Mèndez Carvajal !");
+Console.WriteLine("Alajuela - Marianela Mèndez Carvajal !");
+Console.WriteLine("Puertoo Viejo - Marianela Mèndez Carvajal !");
+Console.WriteLine("Playita - Marianela Mèndez Carvajal");
+Console.WriteLine("Cambio despues de GitHub- Marianela Mèndez Carvajal");
+
+
