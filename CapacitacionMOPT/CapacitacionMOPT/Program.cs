@@ -1,4 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.WriteLine("Ronald Hernàndez");
+Console.WriteLine("Prueba Ronald");
+Console.WriteLine("Pràctica Ronald");
+Console.WriteLine("MOPT Ronald");
+Console.WriteLine("Test Ronald");
+
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Marisel Castro");
 Console.WriteLine("Les saluda Marisel");
