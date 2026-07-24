@@ -23,13 +23,13 @@ steps:
   displayName: 'Restaurando dependencias'
   inputs:
     command: restore
-    projects: '**/*.csproj'
+    projects: '**/**/.csproj'
 
 - task: DotNetCoreCLI@2
   displayName: 'Compilando proyecto'
   inputs:
     command: build
-    projects: '**/*.csproj'
+    projects: '**/**/.csproj'
     arguments: '--configuration Release'
 
 - script: |
